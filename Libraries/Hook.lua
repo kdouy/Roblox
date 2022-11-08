@@ -1,3 +1,4 @@
+-- credit to siper --
 local hooks = {}
 
 function hooks:new(CClosure)
